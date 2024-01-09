@@ -1,0 +1,7 @@
+2nd test- integration commit github to ADO boards
+
+Sintaxe:
+
+AB#{ID}
+
+https://learn.microsoft.com/en-us/azure/devops/boards/github/link-to-from-github?view=azure-devops
